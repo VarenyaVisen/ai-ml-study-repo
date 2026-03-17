@@ -6,8 +6,7 @@
 - Projects
 
 ## 🧠 Books Covered
-- Introduction to Machine Learning with Python: A Guide for Data Scientists
-
+- [Introduction to Machine Learning with Python: A Guide for Data Scientists](Books/introduction_to_ml_with_python/)
 
 
 ---
