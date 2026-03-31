@@ -17,3 +17,8 @@ Some terms in ml:
 - underfitting :  If a model is too simple that it doesn't perform well even on the training dataset then its called underfitting  
 
 there is a sweet spot between which yeild the best genralization that is what we want to find 
+
+* Relation of model complexity to dataset size
+=> model complexity is intimately tied to the variation of inputs contained in your training dataset, the larger the variety of data points data set contains the more complex model can be used without problem of getting overfit
+usually collecting more data will yield more variety so larger datasets allow building more complex models 
+note - never underestimate the power of more data
