@@ -1,20 +1,20 @@
 # Chapter 1: Introduction
 
-## 📌 What is an Operating System?
+## What is an Operating System?
 An Operating System (OS) is a program that acts as a **middleman between the user and the computer hardware**.
 
 It manages system resources and allows users to interact with the computer.
 
 ---
 
-## 🖥️ Graphical User Interface (GUI)
+## Graphical User Interface (GUI)
 - The interface we see on our screen is called the **Graphical User Interface (GUI)**  
 - It is a part of the operating system  
 - It allows interaction using windows, icons, buttons, etc.
 
 ---
 
-## 💻 Popular Operating Systems
+## Popular Operating Systems
 
 - **Windows**  
   - Developed by Microsoft  
@@ -31,7 +31,7 @@ It manages system resources and allows users to interact with the computer.
 
 ---
 
-## 🌐 Key Terms
+## Key Terms
 
 ### Server
 A server is a computer or program that provides services to other computers.  
